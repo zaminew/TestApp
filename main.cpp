@@ -1,3 +1,6 @@
+#include <libr.h>
+
+uint32_t millis = 0;
 
 void Delay(uint16_t millis){
     //todo
